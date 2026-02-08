@@ -160,22 +160,6 @@ This step improves **model interpretability**, a key requirement in real-world M
 - Model interpretability via feature importance
 - End-to-end ML pipeline design
 
----
-
-## 🚀 Next Steps / Extensions
-
-- Deploy model behind an inference API
-- Integrate into a web-based prediction app
-- Add model monitoring and drift detection
-- Experiment with gradient boosting models
-
----
-
-## 📌 Summary
-
-This notebook is not just about training a model —  
-it demonstrates **how to think like a machine learning engineer** when solving a real, noisy, high-impact business problem.
-
 Ideal for:
 - ML portfolios  
 - Resume projects  
